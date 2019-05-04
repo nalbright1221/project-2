@@ -2,7 +2,7 @@
   "development": {
     "username": "triology",
     "password": "password123",
-    "database": "burgers_db",
+    "database": "coderage_db",
     "host": "localhost",
     "dialect": "mysql"
   },
